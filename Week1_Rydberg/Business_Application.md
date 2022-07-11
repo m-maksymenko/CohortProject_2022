@@ -27,4 +27,4 @@ Startups:
 
 ## Step 4: Prepare a 90 second video explaining the value proposition of your innovation to this potential customer in non-technical language
 
-Neeed to add link to a video
+[Check out our pitch](https://github.com/m-maksymenko/CohortProject_2022/blob/main/Week1_Rydberg/Business_Application.md)
